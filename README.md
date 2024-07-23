@@ -25,5 +25,5 @@ This project implements a file upload system using the Laravel framework. Users 
 1. **Clone the Repository**
 
    ```bash
-   git clone 
-   cd app
+   git clone https://github.com/shashank8904/uploadfile.git
+   cd uploadfile
